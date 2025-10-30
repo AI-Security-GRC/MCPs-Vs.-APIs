@@ -1,5 +1,6 @@
 
-# MCP vs API: Why Treating Them as the Same Is a Security Risk
+# MCP vs API: Why Treating Them as the Same Is a Security Risk 
+***🧠Author: Amit Sharma V1.0***
 
 It’s tempting to think of **MCPs (Model Context Protocols)** as just another type of API.  But treating MCPs and APIs as equivalent can introduce serious **AI security risks**.
 
